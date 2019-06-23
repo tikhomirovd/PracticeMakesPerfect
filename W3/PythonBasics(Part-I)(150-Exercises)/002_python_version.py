@@ -25,10 +25,11 @@ def get_python_version():
 
     version = sys.version
     info = sys.version_info
+    version_combined = f"Python Version:\n{version}\nVersion Info:\n{info}"
 
     print("\nExercise Output:\n")
     print("###################################\n")
-    print(f"Python Version:\n{version}\nVersion Info:\n{info}")
+    print(version_combined)
     print("\n###################################")
 
 
