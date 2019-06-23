@@ -1,1 +1,1 @@
-Just some dang exercises to sharpen my rusty mind.# PracticeMakesPerfect
+Just some dang exercises to sharpen my rusty mind.
